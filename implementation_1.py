@@ -2,7 +2,10 @@
 #þáttakandi ferðast um eitt herbergi í einu með hverri ákvörðun, 9 herbergi eru í völundarhúsinu. Notanda er gefið upplýsingar hvert hann getur farið í hverju herbergi fyrir sig.
 #Þegar þáttakandi hefur er kominn í lokaherbergið hefur hann sigrað leikinn
 
+# https://github.com/Bjarkibadda/TileTraveller.git
+
 staðsetning = 1
+
 while staðsetning !=7 :  
     if staðsetning == 1 or staðsetning == 4 :
         inntak=input("You can travel: (N)orth.: ")
