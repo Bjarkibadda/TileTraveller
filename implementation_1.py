@@ -1,6 +1,15 @@
 # Markmið leiksins er að komast frá upphafsstað á endastað. Notandi er staddur í völundarhúsi og byrjar á staðsetningu sem við köllum herbergi 1.
-#þáttakandi ferðast um eitt herbergi í einu með hverri ákvörðun, 9 herbergi eru í völundarhúsinu. Notanda er gefið upplýsingar hvert hann getur farið í hverju herbergi fyrir sig.
-#Þegar þáttakandi hefur er kominn í lokaherbergið hefur hann sigrað leikinn
+#þáttakandi ferðast um eitt herbergi í einu með hverri ákvörðun, 9 herbergi eru í völundarhúsinu en mismunandi er hvert þú getur farið úr hverju herbergi.
+# Notanda er gefið upplýsingar hvert hann getur farið í hverju herbergi fyrir sig.
+#Þegar þáttakandi hefur er kominn í lokaherbergið hefur hann sigrað leikinn. 
+#Uppröðun herbergja er eftirfarandi: 
+
+# 3-6-9
+# 2-5-8
+# 1-4-7
+
+#Upphafsstaður er herbergi nr. 1.
+#Endastaður er herbergi nr. 7.
 
 # https://github.com/Bjarkibadda/TileTraveller.git
 
